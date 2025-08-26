@@ -4,7 +4,7 @@ compatibility_date = "2024-02-27"
 workers_dev = false
 
 [[routes]]
-pattern = "moe-counter.lxchapu.com"
+pattern = "moe-counter.sai-hentai.dpdns.org"
 custom_domain = true
 
 [build]
